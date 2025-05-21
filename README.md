@@ -18,6 +18,5 @@
 ### O que ando fazendo?:<br>
 * Curso de desenvolvimento WEB:
   * Atualmente estou aprendendo bootstrap nesse curso e evoluindo aprendizado em js.
-* Projeto ClubDuRafa disponivel aqui no meu github.
 
 Me empenhando sempre em aprender mais e mais no mundo da tecnologia
