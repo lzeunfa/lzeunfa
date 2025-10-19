@@ -18,7 +18,7 @@
 ***
 ### O que ando fazendo?:<br>
 * Curso de desenvolvimento WEB:
-  * Atualmente finalizei modulo de bootstrap e js desse curso, próximo passo será ecmascript.
-* Estou em um projeto de landing page para a produtora audiovisual IQ.
+  * Atualmente finalizei modulo de MySQL e estou começando a aprender sobre AJAX.
+* Trabalhando em um projeto pessoal de cronograma semanal.
 
 Me empenhando sempre em aprender mais e mais no mundo da tecnologia
