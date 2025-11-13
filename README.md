@@ -11,14 +11,21 @@
 <div style="display=inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
 ***
 ### O que ando fazendo?:<br>
 * Curso de desenvolvimento WEB:
-  * Atualmente finalizei modulo de MySQL e estou começando a aprender sobre AJAX.
-* Trabalhando em um projeto pessoal de cronograma semanal.
+* Atualmente finalizei módulo de jQuery
+* Próximos aprendizados: Padrão de arquitetura MVC com PHP
+* API com slimframeweork
+* SASS
+* Aplicações mmobile com ionic
+* Wordpress
 
 Me empenhando sempre em aprender mais e mais no mundo da tecnologia
