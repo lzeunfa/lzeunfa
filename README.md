@@ -18,12 +18,8 @@
 
 ***
 ### O que ando fazendo?:<br>
-* Curso de desenvolvimento WEB:
-* Atualmente finalizei módulo de jQuery
-* Próximos aprendizados: Padrão de arquitetura MVC com PHP
-* API com slimframeweork
-* SASS
-* Aplicações mmobile com ionic
-* Wordpress
+* Curso da carreira de desenvolvimento front-end com react da Alura
+* Buscando aprender mais afundo o JS usando mais terminal + node.js
+* Ao finalizar esta carreira pretendo fazer a carreira de desenvolvimento back end com node.js
 
 Me empenhando sempre em aprender mais e mais no mundo da tecnologia
