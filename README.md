@@ -20,6 +20,7 @@
 ### O que ando fazendo?:<br>
 * Curso da carreira de desenvolvimento front-end com react da Alura
 * Buscando aprender mais afundo o JS usando mais terminal + node.js
+* Tenho vontade de aprender sobre QA enquanto estudo React
 * Ao finalizar esta carreira pretendo fazer a carreira de desenvolvimento back end com node.js
 
 Me empenhando sempre em aprender mais e mais no mundo da tecnologia
